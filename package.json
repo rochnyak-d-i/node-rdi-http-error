@@ -1,0 +1,26 @@
+{
+  "name": "rdi-http-error",
+  "version": "1.0.0",
+  "description": "http error",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test.js"
+  },
+  "keywords": [
+    "http",
+    "error"
+  ],
+  "author": "Rochnyak Dmitriy",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rochnyak-d-i/node-rdi-http-error.git"
+  },
+  "homepage": "https://github.com/rochnyak-d-i/node-rdi-http-error",
+  "devDependencies": {
+    "mocha": "^5.0.1"
+  },
+  "dependencies": {
+    "rdi-extended-error": "git+https://git@github.com/rochnyak-d-i/node-rdi-extended-error.git"
+  }
+}
