@@ -1,4 +1,4 @@
-# Extended Error
+# HTTP Error
 
 ### Установка
 ```bash
