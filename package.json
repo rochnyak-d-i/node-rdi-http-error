@@ -21,6 +21,6 @@
     "mocha": "^5.0.1"
   },
   "dependencies": {
-    "rdi-extended-error": "git+https://git@github.com/rochnyak-d-i/node-rdi-extended-error.git"
+    "rdi-extended-error": "https://git@github.com/rochnyak-d-i/node-rdi-extended-error"
   }
 }
